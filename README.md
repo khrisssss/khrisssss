@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋 I'm Khris</h1>
 <h3 align="center">AI Developer Student</h3>
 
-
-## Hi 👋 I'm Khris
-
-### AI Developer Student at Simplon
-
-
 Here are some ideas to get you started:
 
 🌱 I’m currently learning 
@@ -14,8 +8,6 @@ Here are some ideas to get you started:
 - Machine Learning  
 - FastAPI  
 - Data Analysis  
-
-
 
 📫 How to reach me  
 - LinkedIn: https://www.linkedin.com/in/jemasu/

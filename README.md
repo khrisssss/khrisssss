@@ -1,9 +1,11 @@
+<h1 align="center">Hi 👋 I'm Khris</h1>
+<h3 align="center">AI Developer Student</h3>
+
+
 ## Hi 👋 I'm Khris
 
 ### AI Developer Student at Simplon
 
-<!--
-**khrisssss/khrisssss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -22,7 +24,3 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://yourimage.png" width="200"/>
-<h1 align="center">Hi 👋 I'm Khris</h1>
-![Python](https://img.shields.io/badge/Python-blue)
-![Machine Learning](https://img.shields.io/badge/ML-green)
